@@ -1,6 +1,7 @@
 # SSO-system
 
 基于Web的单点登录系统，含Java的Web编程（JSP，Servlet，Filter，Listener）、设计模式、Tomcat服务器的使用
+
 **认证机制**：`Cookie + Token`
 
 ## 基本功能介绍
